@@ -1,0 +1,8 @@
+20230509	21:52:20	0f1cbe39-61e7-469f-aab8-6ba76c089384	Error: Cannot set headers after they are sent to the client
+20230509	21:53:35	0beb3192-d335-4731-a062-5ea6d21000df	Error: Cannot set headers after they are sent to the client
+20230509	21:57:21	bd6dbd4f-1ae5-4d41-bc0f-47967ea4aae2	Error: Cannot set headers after they are sent to the client
+20230509	22:16:23	6fc80d57-7637-4381-8757-4940e288d4fe	TypeError: Cannot read properties of undefined (reading 'split')
+20230509	22:16:35	f3869c5c-dcd5-4be4-816e-381dc83e8aa9	TypeError: Cannot read properties of undefined (reading 'split')
+20230509	23:05:50	07688b5f-2fcf-4890-91b7-4acdf42d5b24	Error: ENOENT: no such file or directory, stat 'C:\xampp\htdocs\INF653Final\views\404.html'
+20230510	20:51:30	d681fb92-da24-47e8-ace6-aa36aca0b7c7	SyntaxError: Expected ',' or '}' after property value in JSON at position 17
+20230510	21:03:09	23435d8c-d4e9-4fbd-82ec-1c3850879868	Error: ENOENT: no such file or directory, stat 'C:\xampp\htdocs\INF653Final\views\404.html'
